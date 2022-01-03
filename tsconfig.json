@@ -25,7 +25,8 @@
     "**/*.tsx",
     "src/pages/index.jsx",
     "src/pages/_app.jsx",
-    "src/components/Skills.jsx"
+    "src/components/Skills.jsx",
+    "src/components/Icons/index.jsx"
   ],
   "exclude": [
     "node_modules"
