@@ -6,7 +6,7 @@ import useAppData from '../data/hook/UseAppData'
 export default function Hexglyph() {
   const { theme } = useAppData() //usando Hook
   return (
-    <div className={`${theme}`}>
+    <div className={`${theme} bg-gradient-to-r from-amber-400 to-orange-600`}>
       <Head>
         <title>Daniel NieBraz</title>
         <meta name="description" content="Daniel.NieBraz Portfolio " />
